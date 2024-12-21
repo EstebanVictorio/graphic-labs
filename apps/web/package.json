@@ -1,0 +1,8 @@
+{
+  "name": "@gl/web",
+  "version": "0.0.1",
+  "dependencies": {
+    "astro": "5.1.1"
+  },
+  "private": true
+}
